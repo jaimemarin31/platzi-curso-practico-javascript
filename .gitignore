@@ -1,1 +1,58 @@
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
 
+# Dependency directories
+node-modules/
+jspm-packages/
+
+# TypeScript v1 declaration files
+typings/
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+.yarn-integrity
+
+# parcel-bundler cache 
+.cache
+
+# dotenv environment variables file
+.env
+.env.test 
+
+# Next.js build output
+.Next
+
+# Gatsby files
+.cache/
+
+# vuepress build output
+.vuepress/dist 
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Configuracion de Visual Studio Code
+.vscode
