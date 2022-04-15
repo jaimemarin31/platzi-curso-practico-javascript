@@ -1,0 +1,17 @@
+[33mcommit 6ffe60ba359b28e519d9d576dd62e2e30d18b3b4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jaime Marin <jtasistelectronica@gmail.com>
+Date:   Mon Apr 11 12:39:50 2022 -0500
+
+    Añadi la carpeta .vscode al archivo .giignore
+
+[33mcommit f2cff068253171283ca7ab396b00032a335bc0a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jaimemarin31 <103133710+jaimemarin31@users.noreply.github.com>
+Date:   Mon Apr 11 11:50:49 2022 -0500
+
+    initial commit
+
+[33mcommit 46e3b44a8433b94a20293e2f8281f64c9743ce8b[m
+Author: jaimemarin31 <103133710+jaimemarin31@users.noreply.github.com>
+Date:   Mon Apr 11 11:44:33 2022 -0500
+
+    Initial commit
